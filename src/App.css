@@ -1,0 +1,8 @@
+.clock {
+  display: flex;
+  justify-content: center;
+}
+
+.tick {
+  flex-direction: column;
+}
